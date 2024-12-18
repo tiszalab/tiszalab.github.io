@@ -9,26 +9,30 @@ order: 2
 ### Dr. Michael J. Tisza
 Microbial genomics and metagenomics enthusiast
 <p align="left">
-  <img src="/assets/images/tiszamj_portait.jpg" width="500" alt="mjt">
-  <img src="/assets/images/raticate.png" width="300" alt="raticate">
+  <img src="/assets/images/tiszamj_portait.jpg" width="400" alt="mjt">
+</p>
+
+Favorite Pokemon:
+<p align="center">
+  <img src="/assets/images/raticate.png" width="250" alt="raticate">
 </p>
 
 ## Research Staff
 
 ### Victoria Rodriguez
-Genomics, sequencing, and bioinformatics scientist
+**Genomics, sequencing, and bioinformatics scientist**
 
 Favorite Pokemon:
-<p align="right">
-  <img src="/assets/images/snorlax.png" width="300" alt="snorlax">
+<p align="center">
+  <img src="/assets/images/snorlax.png" width="250" alt="snorlax">
 </p>
 
 ### Barath Menon
-Molecular biologist and viral genomics researcher
+**Molecular biologist and viral genomics researcher**
 
 Favorite Pokemon:
-<p align="right">
-  <img src="/assets/images/charmander.png" width="300" alt="charmander">
+<p align="center">
+  <img src="/assets/images/charmander.png" width="250" alt="charmander">
 </p>
 
 ## Graduate Students
@@ -38,7 +42,11 @@ Favorite Pokemon:
 Primary appointment: [Treangen Lab](https://www.treangenlab.com/), Rice University  
 Computational biology student solving viral genomics problems
 
+<p align="left">
+  <img src="/assets/images/doughtyr1.png" width="400" alt="rjd">
+</p>
+
 Favorite Pokemon:
-<p align="right">
-  <img src="/assets/images/uknown.png" width="300" alt="uknown">
+<p align="center">
+  <img src="/assets/images/uknown.png" width="250" alt="uknown">
 </p>
