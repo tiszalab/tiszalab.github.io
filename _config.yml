@@ -45,6 +45,7 @@ social:
     - https://github.com/tiszalab # lab github
     - https://twitter.com/MikeTisza # change to your Twitter homepage
 
+markdown: kramdown
 
 # Site Verification Settings
 webmaster_verifications:
