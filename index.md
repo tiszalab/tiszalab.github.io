@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: Home
+# Index page
 ---
 
 # Welcome to the Tisza Lab
@@ -15,17 +16,17 @@ Scientists' ability to conduct genomic sequencing on microbes and communities of
 
 - **Viral Pathogen Genomics**: From swabs to sewage, understanding viral evolution
 <p align="center">
-  <img src="assets/images/ww_virome1.png" width="450">
+  <img src="assets/images/ww_virome1.png" width="450"  alt="wastewater">
 </p>
 
 - **Bacterial Epigenomics**: Understanding the diversity andfunctional impact of DNA modification in bacteria
 <p align="center">
-  <img src="assets/images/b_ovatus_methyl1.png" width="450">
+  <img src="assets/images/b_ovatus_methyl1.png" width="450"  alt="methyl">
 </p>
 
 - **Virus Discovery**: Discovering, annotating, and exploiting wild new viruses in and on the human body
 <p align="center">
-  <img src="assets/images/cenote1.png" width="450">
+  <img src="assets/images/cenote1.png" width="450" alt="cenote">
 </p>
 
 

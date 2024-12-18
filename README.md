@@ -1,4 +1,4 @@
-# Chirpy Starter
+# tiszalab.github.io
 
 Tisza Lab Website on GitHub pages using Jekyll with Chirpy theme.
 
