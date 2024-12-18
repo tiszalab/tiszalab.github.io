@@ -11,6 +11,9 @@ title: Lab Members
 
 ### Dr. Michael J. Tisza
 Microbial genomics and metagenomics enthusiast
+<p align="left">
+  <img src="assets/images/tiszamj_portrait.jpg" width="500" alt="mjt">
+</p>
 
 Favorite Pokemon:
 <p align="right">
