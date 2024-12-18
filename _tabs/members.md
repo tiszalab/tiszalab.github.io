@@ -4,18 +4,12 @@ icon: fas fa-users
 order: 2
 ---
 
-# Lab Members
-
 ## Principal Investigator
 
 ### Dr. Michael J. Tisza
 Microbial genomics and metagenomics enthusiast
 <p align="left">
-  <img src="/assets/images/tiszamj_portrait.jpg" width="500" alt="mjt">
-</p>
-
-Favorite Pokemon:
-<p align="right">
+  <img src="/assets/images/tiszamj_portait.jpg" width="500" alt="mjt">
   <img src="/assets/images/raticate.png" width="300" alt="raticate">
 </p>
 

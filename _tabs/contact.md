@@ -5,9 +5,6 @@ order: 4
 title: Contact Us
 ---
 
-# Contact
-
-
 **Email Dr. Tisza:** [michael.tisza@bcm.edu](mailto:michael.tisza@bcm.edu)
 
 **Address:** 1 Baylor Plaza, Room 915D, Houston, TX 77030
