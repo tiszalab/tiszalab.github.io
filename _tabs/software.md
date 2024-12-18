@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-circle
-order: 5
+order: 4
 ---
 
 # Bioinformatics Software

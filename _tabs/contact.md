@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-envelope
-order: 4
+order: 1
 title: Contact Us
 ---
 
