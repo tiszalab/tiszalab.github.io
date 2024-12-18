@@ -5,8 +5,6 @@ title: Publications and Software
 
 # Publications
 
-[Publications and Software](/publications.md) | [Meet Our Team](/members.md) | [Contact Us](/contact.md) | [Home](/index.html)
-
 ## Featured Publications
 
 ### 2024

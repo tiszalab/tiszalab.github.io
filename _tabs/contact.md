@@ -5,9 +5,6 @@ title: Contact
 
 # Contact
 
-[Publications and Software](/publications.md) | [Meet Our Team](/members.md) | [Contact Us](/contact.md) | [Home](/index.html)
-
-## Info
 
 **Email Dr. Tisza:** [michael.tisza at bcm dot edu](mailto:michael.tisza at bcm dot edu)
 
