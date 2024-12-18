@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-[Publications and Software](publications.md) | [Meet Our Team](members.md) | [Contact Us](contact.md) | [Home](index.md)
+[Publications and Software](/publications.md) | [Meet Our Team](/members.md) | [Contact Us](/contact.md) | [Home](/index.md)
 
 ## Info
 
