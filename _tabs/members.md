@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Lab Members
+layout: page
+icon: fas fa-users
+order: 2
 ---
 
 # Lab Members
