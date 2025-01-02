@@ -33,6 +33,9 @@ Microbial genomics and metagenomics enthusiast
 
 ### Barath Menon
 **Molecular biologist and viral genomics researcher**
+<p align="left">
+  <img src="/assets/images/menonb1.jpeg" width="400" alt="mjt">
+</p>
 
 [Favorite Pokemon](https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)):
 <p align="center">
