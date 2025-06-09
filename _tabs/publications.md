@@ -6,6 +6,11 @@ order: 3
 
 ## Featured Publications
 
+### 2025
+ -  Javornik Cregeen S, **Tisza MJ**, Hanson B, Cook M, Surathu A, Schneider R, Wu J, Short K, Domakonda K, Hopkins L, Ross MC, Petrosino JF, Deegan J, Stadler LB, Boerwinkle E, Maresso A. [Sequencing-Based Detection of Measles in Wastewater: Texas, January 2025](https://doi.org/10.2105/ajph.2025.308146). Am J Public Health. 2025 May 8:e1-e5. doi: 10.2105/AJPH.2025.308146. Epub ahead of print. PMID: 40340466.
+
+ - **Tisza MJ**, Lloyd RE, Hoffman K, Smith DP, Rewers M, Javornik Cregeen SJ, Petrosino JF. [Longitudinal phage-bacteria dynamics in the early life gut microbiome](https://doi.org/10.1038/s41564-024-01906-4). Nat Microbiol. 2025 Feb;10(2):420-430. doi: 10.1038/s41564-024-01906-4. Epub 2025 Jan 24. PMID: 39856391; PMCID: PMC11790489.
+ 
 ### 2024
 - **Tisza MJ**, Hanson BM, Clark JR, Wang L, Payne K, Ross MC, Mena KD, Gitter A, Javornik Cregeen SJ, Cormier J, Avadhanula V, Terwilliger A, Balliew J, Wu F, Rios J, Deegan J, Piedra PA, Petrosino JF, Boerwinkle E, Maresso AW. [Sequencing-Based Detection of Avian Influenza A(H5N1) Virus in Wastewater in Ten Cities](https://doi.org/10.1056/NEJMc2405937). *N Engl J Med*. 2024 Sep 26;391(12):1157-1159. PMID: 39259887.
 

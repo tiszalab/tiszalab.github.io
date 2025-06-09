@@ -9,7 +9,7 @@ title: Contact Us
 
 **Address:** 1 Baylor Plaza, Room 915D, Houston, TX 77030
 
-**Twitter/X:** @MikeTisza
+**BlueSky:** @miketisza.bsky.social
 
 **BCM Profile:** [https://www.bcm.edu/people-search/michael-tisza-102146](https://www.bcm.edu/people-search/michael-tisza-102146)
 
