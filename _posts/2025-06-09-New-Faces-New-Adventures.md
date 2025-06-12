@@ -33,12 +33,12 @@ Ashleigh is a talented intern with a passion for phages. She's dedicated to lear
 
 As has been reported in mulitple news outlets, West Texas has been the epicenter of a large outbreak of measles moribillivirus in early 2025. The Tisza Lab is part of TEPHI's TexWEB wastewater virome sequencing effort, and we've helped keep track of measles virus in municipal wastewater as this situation has unfolded.
 
-In January, independently of the West Texas outbreak, a small number of international travelers returned to Houston after contracting measles. The TexWEB team, via routine virome sequencing, detected measles virus (genotype D8) from wastewater samples collected before a clinical diagnosis of measles was made on these travelers. These detections were confirmed with ddPCR and reported in the academic journal [AJPH](https://doi.org/10.2105/AJPH.2025.308146). Collaborators from BCM, UT-School of Public Health, Houston Health, and Rice University contributed.
+In January, independently of the West Texas outbreak, a small number of international travelers returned to Houston after contracting measles. The TexWEB team, via routine virome sequencing, detected measles virus (genotype B3) from wastewater samples collected before a clinical diagnosis of measles was made on these travelers. These detections were confirmed with ddPCR and reported in the academic journal [AJPH](https://doi.org/10.2105/AJPH.2025.308146). Collaborators from BCM, UT-School of Public Health, Houston Health, and Rice University contributed.
 
 ![measles_htx](/assets/images/measles_htx1.png){: width="650" .d-block .mx-auto }
 
 
-Shortly thereafter, measles virus (genotype B3) was detected repeatedly in Lubbock and El Paso, concurrent with or ahead of clinical diagnoses. These detections are reported in the public [TexWEB Dashboard](https://dashboard.tephi.texas.gov/public-dashboard). Wastewater virome sequencing helps communities prepare for and manage unexpected disease outbreaks.
+Shortly thereafter, measles virus (genotype D8) was detected repeatedly in Lubbock and El Paso, concurrent with or ahead of clinical diagnoses. These detections are reported in the public [TexWEB Dashboard](https://dashboard.tephi.texas.gov/public-dashboard). Wastewater virome sequencing helps communities prepare for and manage unexpected disease outbreaks.
 
 ![measles_all_tx](/assets/images/measles_txwide_20250609.png){: width="450" .d-block .mx-auto }
 
