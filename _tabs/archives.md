@@ -1,5 +1,6 @@
 ---
 layout: archives
-icon: fas fa-archive
-order: 7
+icon: fas fa-newspaper
+order: 6
+title: News
 ---
