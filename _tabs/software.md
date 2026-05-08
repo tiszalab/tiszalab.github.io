@@ -38,4 +38,10 @@ order: 4
     <div class="tool-desc">Identify bacterial DNA methylases and predict motif specificity from genomic data.</div>
   </div>
 
+  <div class="lab-card tool-card">
+    <img src="/assets/images/scampiman.png" alt="scampiman shrimp">
+    <h3><a href="https://github.com/tiszalab/scampiman">scampiman</a></h3>
+    <div class="tool-desc">Process and quality control tiled amplicon sequencing data.</div>
+  </div>
+
 </div>

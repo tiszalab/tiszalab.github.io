@@ -6,8 +6,15 @@ order: 3
 
 <h2 class="lab-section-title">Featured Publications</h2>
 
+<h3 class="pub-year">2026</h3>
+<ul class="pub-list">
+  <li>Pavan RR, Sullivan MB, <strong>Tisza MJ</strong>. <a href="https://doi.org/10.2105/ajph.2025.308146">CRESSENT: a bioinformatics toolkit to explore and improve ssDNA virus annotation</a>. <em>Nat Microbiol</em>. 2026 Feb;12(2), 001632. PMID:  41642221. </li>
+  <li><strong>Tisza MJ</strong>, Varsani A., Petrosino JF, Cregeen SJJ, <a href="https://doi.org/10.24072/pcjournal.706">Cenote-Taker 3 for fast and accurate virus discovery and annotation of the virome.</a>. <em>Peer Community Journal</em>. Volume 6 (2026), article no. e31. </li>
+</ul>
+
 <h3 class="pub-year">2025</h3>
 <ul class="pub-list">
+  <li>Minich JJ, Allsing N, Din MO, <strong>Tisza MJ</strong>, Maleta K, McDonald D, Hartwick N, Mamerto A, Brennan C, Hansen L, Shaffer J, Murray ER, Duong T, Knight R, Stephenson K, Manary MJ, Michael TP. <a href="https://doi.org/10.1016/j.cell.2025.08.020">Culture-independent meta-pangenomics enabled by long-read metagenomics reveals associations with pediatric undernutrition</a>. <em>Cell</em>. 2025 Nov 13;188(23):6666-6686.e25. PMID: 40930091. </li>
   <li>Javornik Cregeen S, <strong>Tisza MJ</strong>, Hanson B, Cook M, Surathu A, Schneider R, Wu J, Short K, Domakonda K, Hopkins L, Ross MC, Petrosino JF, Deegan J, Stadler LB, Boerwinkle E, Maresso A. <a href="https://doi.org/10.2105/ajph.2025.308146">Sequencing-Based Detection of Measles in Wastewater: Texas, January 2025</a>. <em>Am J Public Health</em>. 2025 May 8:e1-e5. PMID: 40340466.</li>
   <li><strong>Tisza MJ</strong>, Lloyd RE, Hoffman K, Smith DP, Rewers M, Javornik Cregeen SJ, Petrosino JF. <a href="https://doi.org/10.1038/s41564-024-01906-4">Longitudinal phage-bacteria dynamics in the early life gut microbiome</a>. <em>Nat Microbiol</em>. 2025 Feb;10(2):420-430. PMID: 39856391.</li>
 </ul>
