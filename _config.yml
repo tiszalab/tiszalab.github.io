@@ -21,7 +21,7 @@ tagline: Hypothesis-driven Microbial Genomics # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   Genomes and genome accessories
 
-logo: /assets/images/ghostvir.png
+#logo: /assets/images/ghostvir.png
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,9 +30,6 @@ url: "https://tiszalab.github.io"
 github:
   username: mtisza1 # change to your GitHub username
 
-twitter:
-  username: MikeTisza # change to your Twitter username
-  card: summary
 
 social:
   # Change to your full name.
@@ -43,7 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/mtisza1 # change to your GitHub homepage
     - https://github.com/tiszalab # lab github
-    - https://twitter.com/MikeTisza # change to your Twitter homepage
+    - https://bsky.app/profile/miketisza.bsky.social # BlueSky
 
 markdown: kramdown
 

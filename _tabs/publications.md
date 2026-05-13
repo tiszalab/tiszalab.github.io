@@ -8,7 +8,7 @@ order: 3
 
 <h3 class="pub-year">2026</h3>
 <ul class="pub-list">
-  <li>Pavan RR, Sullivan MB, <strong>Tisza MJ</strong>. <a href="https://doi.org/10.2105/ajph.2025.308146">CRESSENT: a bioinformatics toolkit to explore and improve ssDNA virus annotation</a>. <em>Nat Microbiol</em>. 2026 Feb;12(2), 001632. PMID:  41642221. </li>
+  <li>Pavan RR, Sullivan MB, <strong>Tisza MJ</strong>. <a href="https://doi.org/10.1099/mgen.0.001632">CRESSENT: a bioinformatics toolkit to explore and improve ssDNA virus annotation</a>. <em>Nat Microbiol</em>. 2026 Feb;12(2), 001632. PMID:  41642221. </li>
   <li><strong>Tisza MJ</strong>, Varsani A., Petrosino JF, Cregeen SJJ, <a href="https://doi.org/10.24072/pcjournal.706">Cenote-Taker 3 for fast and accurate virus discovery and annotation of the virome.</a>. <em>Peer Community Journal</em>. Volume 6 (2026), article no. e31. </li>
 </ul>
 
