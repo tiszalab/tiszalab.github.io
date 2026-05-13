@@ -1,0 +1,496 @@
+/* ======================================================
+   Tisza Lab – Custom Styles
+   ====================================================== */
+
+/* ---------- CSS variables (scoped to :root) ---------- */
+:root {
+  --lab-accent:        #2dd4bf;   /* teal-400 */
+  --lab-accent-dim:    #14b8a6;   /* teal-500 */
+  --lab-card-bg:       rgba(255,255,255,0.04);
+  --lab-card-border:   rgba(255,255,255,0.08);
+  --lab-card-hover-border: rgba(45,212,191,0.35);
+  --lab-radius:        12px;
+  --lab-shadow:        0 2px 12px rgba(0,0,0,0.25);
+}
+
+/* ---- light mode overrides ---- */
+[data-mode="light"] {
+  --lab-card-bg:       rgba(0,0,0,0.025);
+  --lab-card-border:   rgba(0,0,0,0.08);
+  --lab-card-hover-border: rgba(20,184,166,0.4);
+  --lab-shadow:        0 2px 12px rgba(0,0,0,0.08);
+}
+
+/* ===========================
+   Hero / Landing Section
+   =========================== */
+.lab-hero {
+  text-align: center;
+  padding: 2.5rem 1rem 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--lab-card-border);
+}
+
+.lab-hero h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.02em;
+}
+
+.lab-hero .lab-tagline {
+  font-size: 1.15rem;
+  opacity: 0.7;
+  margin-bottom: 0.25rem;
+}
+
+.lab-hero .lab-affiliation {
+  font-size: 0.95rem;
+  opacity: 0.55;
+}
+
+/* Override Chirpy popup wrapper for hero logo */
+.lab-hero .img-link {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 140px;
+  height: 140px;
+  margin-bottom: 1.25rem;
+  border: 3px solid var(--lab-accent);
+  box-shadow: 0 0 20px rgba(45,212,191,0.15);
+}
+
+.lab-hero .img-link::before,
+.lab-hero .img-link::after {
+  display: none !important;
+}
+
+.lab-hero .img-link .lab-logo {
+  width: 100%;
+  height: 100%;
+  border: none;
+  margin-bottom: 0;
+  box-shadow: none;
+}
+
+.lab-hero .lab-logo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1.25rem;
+  border: 3px solid var(--lab-accent);
+  box-shadow: 0 0 20px rgba(45,212,191,0.15);
+}
+
+/* ===========================
+   Section headers
+   =========================== */
+.lab-section-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 2.5rem 0 1.25rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--lab-accent);
+  display: inline-block;
+}
+
+/* ===========================
+   Card grid
+   =========================== */
+.lab-card-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.lab-card-grid.cols-3 {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.lab-card-grid.cols-2 {
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+}
+
+/* ===========================
+   Generic card
+   =========================== */
+.lab-card {
+  background: var(--lab-card-bg);
+  border: 1px solid var(--lab-card-border);
+  border-radius: var(--lab-radius);
+  padding: 1.5rem;
+  transition: border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+
+.lab-card:hover {
+  border-color: var(--lab-card-hover-border);
+  box-shadow: var(--lab-shadow);
+  transform: translateY(-2px);
+}
+
+.lab-card h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.lab-card p {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.lab-card .card-link {
+  color: var(--lab-accent);
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.lab-card .card-link:hover {
+  text-decoration: underline;
+}
+
+/* ===========================
+   Research area cards (home)
+   =========================== */
+.research-card {
+  text-align: center;
+}
+
+/* Handle Chirpy popup wrapper on research card images */
+.research-card .img-link {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.research-card .img-link::before,
+.research-card .img-link::after {
+  display: none !important;
+}
+
+.research-card img,
+.research-card .img-link img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 0;
+}
+
+.research-card h3 {
+  color: var(--lab-accent);
+}
+
+/* ===========================
+   Member cards
+   =========================== */
+.member-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Override Chirpy's popup wrapper around member photos (direct child only) */
+.member-card > .img-link {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 180px;
+  height: 180px;
+  margin-bottom: 1rem;
+  border: 3px solid var(--lab-card-border);
+  transition: border-color 0.3s;
+  flex-shrink: 0;
+}
+
+.member-card > .img-link::before,
+.member-card > .img-link::after {
+  display: none !important;
+}
+
+.member-card .member-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid var(--lab-card-border);
+  transition: border-color 0.3s;
+}
+
+/* When wrapped in Chirpy popup link, remove duplicate border/margin */
+.member-card > .img-link .member-photo {
+  border: none;
+  margin-bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.member-card:hover .member-photo,
+.member-card:hover > .img-link {
+  border-color: var(--lab-accent);
+}
+
+.member-card .member-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.member-card .member-role {
+  color: var(--lab-accent);
+  font-weight: 500;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.member-card .member-desc {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  line-height: 1.5;
+}
+
+.member-card .member-pokemon {
+  margin-top: auto;
+  padding-top: 0.75rem;
+  font-size: 0.8rem;
+  opacity: 0.6;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.member-card .member-pokemon img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+/* Reset Chirpy popup wrapper inside Pokemon section */
+.member-pokemon .img-link {
+  display: inline-flex;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 0;
+  overflow: visible;
+  margin: 0;
+}
+
+.member-pokemon .img-link::before,
+.member-pokemon .img-link::after {
+  display: none !important;
+}
+
+.member-pokemon .img-link img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+/* ===========================
+   Software / Tool cards
+   =========================== */
+.tool-card {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Handle Chirpy popup wrapper on tool card images */
+.tool-card .img-link {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.tool-card .img-link::before,
+.tool-card .img-link::after {
+  display: none !important;
+}
+
+.tool-card img,
+.tool-card .img-link img {
+  width: 100%;
+  max-height: 180px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 0;
+  background: rgba(255,255,255,0.02);
+  padding: 0.5rem;
+}
+
+.tool-card h3 a {
+  color: var(--lab-accent);
+  text-decoration: none;
+}
+
+.tool-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.tool-card .tool-desc {
+  flex: 1;
+  font-size: 0.95rem;
+  opacity: 0.85;
+  line-height: 1.5;
+}
+
+/* ===========================
+   Publications
+   =========================== */
+.pub-year {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--lab-accent);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--lab-card-border);
+}
+
+.pub-year:first-of-type {
+  margin-top: 0.5rem;
+}
+
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.pub-list li {
+  position: relative;
+  padding: 1rem 1.25rem;
+  margin-bottom: 0.75rem;
+  background: var(--lab-card-bg);
+  border: 1px solid var(--lab-card-border);
+  border-radius: var(--lab-radius);
+  border-left: 3px solid var(--lab-accent);
+  line-height: 1.65;
+  font-size: 0.95rem;
+  transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.pub-list li:hover {
+  border-color: var(--lab-card-hover-border);
+  box-shadow: var(--lab-shadow);
+}
+
+.pub-list li a {
+  color: var(--lab-accent);
+}
+
+/* ===========================
+   Contact page
+   =========================== */
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.contact-item {
+  background: var(--lab-card-bg);
+  border: 1px solid var(--lab-card-border);
+  border-radius: var(--lab-radius);
+  padding: 1.25rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  transition: border-color 0.25s;
+}
+
+.contact-item:hover {
+  border-color: var(--lab-card-hover-border);
+}
+
+.contact-item i {
+  font-size: 1.4rem;
+  color: var(--lab-accent);
+  margin-top: 0.15rem;
+  flex-shrink: 0;
+}
+
+.contact-item .contact-label {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+  font-size: 0.9rem;
+  opacity: 0.7;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.contact-item .contact-value {
+  font-size: 1rem;
+}
+
+.contact-item .contact-value a {
+  color: var(--lab-accent);
+  text-decoration: none;
+}
+
+.contact-item .contact-value a:hover {
+  text-decoration: underline;
+}
+
+/* ===========================
+   Global Chirpy overrides for custom sections
+   =========================== */
+
+/* Suppress shimmer/popup overlay on images inside lab components */
+.lab-card .img-link.shimmer::before,
+.lab-card .img-link.shimmer::after,
+.lab-hero .img-link.shimmer::before,
+.lab-hero .img-link.shimmer::after {
+  display: none !important;
+}
+
+/* Prevent Chirpy from adding extra margin/padding on our card images */
+.lab-card .img-link,
+.lab-hero .img-link {
+  cursor: default;
+}
+
+/* ===========================
+   Misc utilities
+   =========================== */
+.lab-divider {
+  border: none;
+  border-top: 1px solid var(--lab-card-border);
+  margin: 2rem 0;
+}
+
+.lab-text-center {
+  text-align: center;
+}
+
+.lab-text-muted {
+  opacity: 0.6;
+  font-size: 0.9rem;
+}
+
+/* ---- Responsive tweaks ---- */
+@media (max-width: 576px) {
+  .lab-hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .lab-card-grid.cols-3,
+  .lab-card-grid.cols-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .member-card .member-photo {
+    width: 140px;
+    height: 140px;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}

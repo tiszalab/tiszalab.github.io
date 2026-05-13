@@ -4,74 +4,81 @@ icon: fas fa-users
 order: 2
 ---
 
-## Principal Investigator
+<h2 class="lab-section-title">Principal Investigator</h2>
 
-### Dr. Michael J. Tisza
-Microbial genomics and metagenomics enthusiast
-<p align="left">
-  <img src="/assets/images/tiszamj_portait.jpg" width="400" alt="mjt">
-</p>
+<div class="lab-card-grid cols-3">
+  <div class="lab-card member-card">
+    <img src="/assets/images/tiszamj_portait.jpg" alt="Dr. Michael J. Tisza" class="member-photo">
+    <div class="member-name">Dr. Michael J. Tisza</div>
+    <div class="member-role">Principal Investigator</div>
+    <div class="member-desc">Microbial genomics and metagenomics enthusiast</div>
+    <div class="member-pokemon">
+      <img src="/assets/images/raticate.png" alt="Raticate"> Pokemon of Choice: Raticate
+    </div>
+  </div>
+</div>
 
-[Favorite Pokemon](https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pok%C3%A9mon)):
-<p align="center">
-  <img src="/assets/images/raticate.png" width="250" alt="raticate">
-</p>
+<h2 class="lab-section-title">Research Staff</h2>
 
-## Research Staff
+<div class="lab-card-grid cols-3">
 
-### Victoria Rodriguez
-**Genomics, sequencing, and bioinformatics scientist**
+  <div class="lab-card member-card">
+    <img src="/assets/images/rodriguezv1.png" alt="Victoria Rodriguez" class="member-photo">
+    <div class="member-name">Victoria Rodriguez</div>
+    <div class="member-role">Research Scientist</div>
+    <div class="member-desc">Genomics, sequencing, and bioinformatics scientist</div>
+    <div class="member-pokemon">
+      <img src="/assets/images/snorlax.png" alt="Snorlax"> Pokemon of Choice: Snorlax
+    </div>
+  </div>
 
-<p align="left">
-  <img src="/assets/images/rodriguezv1.png" width="400" alt="vr">
-</p>
+</div>
 
-[Favorite Pokemon](https://bulbapedia.bulbagarden.net/wiki/Snorlax_(Pok%C3%A9mon)):
-<p align="center">
-  <img src="/assets/images/snorlax.png" width="250" alt="snorlax">
-</p>
+<h2 class="lab-section-title">Graduate Students</h2>
 
-### Ashleigh Crawford
-**Phage wrangler and bioinformatics apprentice**
+<div class="lab-card-grid cols-3">
 
-<p align="left">
-  <img src="/assets/images/crawford_a_headshot.jpg" width="400" alt="ac">
-</p>
+  <div class="lab-card member-card">
+    <img src="/assets/images/doughtyr1.png" alt="Ryan Doughty" class="member-photo">
+    <div class="member-name">Ryan Doughty</div>
+    <div class="member-role">PhD Candidate</div>
+    <div class="member-desc">
+      Primary appointment: <a href="https://www.treangenlab.com/">Treangen Lab</a>, Rice University.<br>
+      Computational biology student solving viral genomics problems.
+    </div>
+    <div class="member-pokemon">
+      <img src="/assets/images/uknown.png" alt="Unown"> Pokemon of Choice: Unown
+    </div>
+  </div>
 
-[Favorite Pokemon](https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pok%C3%A9mon)):
-<p align="center">
-  <img src="/assets/images/Squirtle.png" width="250" alt="squirtle">
-</p>
+  <div class="lab-card member-card">
+    <img src="/assets/images/mazurek_c_headshot.jpeg" alt="Camille Mazurek" class="member-photo">
+    <div class="member-name">Camille Mazurek</div>
+    <div class="member-role">PhD Candidate</div>
+    <div class="member-desc">
+      BCM <a href="https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/immunology-microbiology">Immunology &amp; Microbiology</a> program.<br>
+      Virus pathogen genomics pro and Rlang enjoyer.
+    </div>
+    <div class="member-pokemon">
+      <img src="/assets/images/Gengar.png" alt="Gengar"> Pokemon of Choice: Gengar
+    </div>
+  </div>
 
-## Graduate Students
+</div>
 
-### Ryan Doughty
-**PhD candidate**  
-Primary appointment: [Treangen Lab](https://www.treangenlab.com/), Rice University  
-**Computational biology student solving viral genomics problems**
 
-<p align="left">
-  <img src="/assets/images/doughtyr1.png" width="400" alt="rjd">
-</p>
+<h2 class="lab-section-title">Alumni</h2>
 
-[Favorite Pokemon](https://bulbapedia.bulbagarden.net/wiki/Unown_(Pok%C3%A9mon)):
-<p align="center">
-  <img src="/assets/images/uknown.png" width="250" alt="unown">
-</p>
+<div class="lab-card-grid cols-3">
 
-### Camille Mazurek
-**PhD Candidate**
+  <div class="lab-card member-card">
+    <img src="/assets/images/crawford_a_headshot.jpg" alt="Ashleigh Crawford" class="member-photo">
+    <div class="member-name">Ashleigh Crawford</div>
+    <div class="member-role">Research Intern (2025)</div>
+    <div class="member-desc">Phage wrangler and bioinformatics apprentice</div>
+    <div class="member-pokemon">
+      <img src="/assets/images/Squirtle.png" alt="Squirtle"> Pokemon of Choice: Squirtle
+    </div>
+  </div>
 
-Baylor College of Medicine, [Immunology and Microbiology program](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/immunology-microbiology)
-
-**Virus Pathogen genomics pro and Rlang enjoyer**
-
-<p align="left">
-  <img src="/assets/images/mazurek_c_headshot.jpeg" width="400" alt="crm">
-</p>
-
-[Favorite Pokemon](https://bulbapedia.bulbagarden.net/wiki/Unown_(Pok%C3%A9mon)):
-<p align="center">
-  <img src="/assets/images/Gengar.png" width="250" alt="gengar">
-</p>
-
+</div>
