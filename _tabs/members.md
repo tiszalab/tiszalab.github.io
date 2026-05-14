@@ -64,6 +64,18 @@ order: 2
     </div>
   </div>
 
+  <div class="lab-card member-card">
+    <img src="/assets/images/perez_rk_headshot.jpeg" alt="Ryan Perez" class="member-photo">
+    <div class="member-name">Ryan Perez</div>
+    <div class="member-role">PhD Candidate</div>
+    <div class="member-desc">
+      BCM <a href="https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences">Quantitative &amp; Computational Biosciences</a> program.<br>
+      Epigenome Explorer.
+    </div>
+    <div class="member-pokemon">
+      <img src="/assets/images/RedEyesBlackDragon-YAP1-EN-UR-LE.png" alt="Yu-Gi-Oh"> Pokemon of Choice: Yu-Gi-Oh?
+    </div>
+  </div>
 </div>
 
 
