@@ -69,7 +69,7 @@ order: 2
     <div class="member-name">Ryan Perez</div>
     <div class="member-role">PhD Candidate</div>
     <div class="member-desc">
-      BCM <a href="https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences">Quantitative &amp; Computational Biosciences</a> program.<br>
+      BCM <a href="https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/degree-programs-and-certificates/quantitative-computational-biosciences">Quantitative &amp; Computational Biosciences</a> program. Co-mentored with Dr. Anthony Maresso (BCM).<br>
       Epigenome Explorer.
     </div>
     <div class="member-pokemon">
